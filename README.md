@@ -1,1 +1,1 @@
-# BoundByBooks
+# BoundByBooks an app built for book lovers
